@@ -11,5 +11,5 @@
   
  ## 三、预测方法
  用XGBoost进行回归预测    
- 详见zhengqi.ipynb
+ **分析过程详见：zhengqi.ipynb
  
